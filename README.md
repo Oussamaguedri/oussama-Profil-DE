@@ -36,9 +36,6 @@
     .tags{display:flex;flex-wrap:wrap;gap:10px}
     .tag{background:var(--chip);border:1px solid var(--border);border-radius:20px;padding:8px 14px;font-size:14px}
 
-    ul{margin:0;padding-left:20px}
-    li{margin:6px 0}
-
     footer{text-align:center;padding:20px;color:var(--muted);font-size:14px;margin-top:20px;border-top:2px solid var(--border)}
 
     .highlight{background:linear-gradient(135deg,var(--acc),var(--acc-2));color:#fff;padding:18px;border-radius:16px;text-align:center;box-shadow:var(--shadow)}
@@ -78,22 +75,20 @@
 
       <div class="card">
         <h2>Berufserfahrung</h2>
-        <ul>
-          <li><strong>Bachelorarbeit – Institut für integrierte Produktion Hannover (IPH)</strong> (02/2024 – 07/2024)<br>
-          Durchführung von FEM-Simulationen zur Analyse des Materialverhaltens im Ringstauchversuch. Unterstützung bei der Definition von Prozessparametern, Vergleich manueller und automatisierter Simulationen, Identifikation von Fehlerquellen sowie Optimierung des Simulationsprozesses. Anwendung von Simulationssoftware zur Prozessgestaltung.</li>
+        <p><strong>Bachelorarbeit – Institut für integrierte Produktion Hannover (IPH)</strong> (02/2024 – 07/2024)<br>
+        Während meiner Bachelorarbeit führte ich umfangreiche FEM-Simulationen zur Analyse des Materialverhaltens im Ringstauchversuch durch. Dabei untersuchte ich sowohl manuelle als auch automatisierte Simulationen, identifizierte mögliche Fehlerquellen und entwickelte Optimierungen für den gesamten Simulationsprozess. Durch die Anwendung modernster Simulationssoftware konnte ich konkrete Empfehlungen für eine effizientere Prozessgestaltung erarbeiten.</p>
 
-          <li><strong>Praxissemester Konstruktion E‑Getriebe – BMW AG, München</strong> (06/2023 – 11/2023)<br>
-          Allgemeine Konstruktionsunterstützung in CATIA V5. Recherche und Erstellung von Zeichnungen nach unternehmensspezifischen Normen. Durchführung von Zusammenbauuntersuchungen, Toleranzbetrachtungen und Zeichnungserstellung für Getriebekomponenten. Besuch des BMW‑Werks Dingolfing zur Analyse von Getriebemontage und Fertigungsprozessen. Überprüfung von Fertigungstoleranzen und Prozessfähigkeitswerten. Unterstützung bei der Versuchsteilbeschaffung und Dokumentation.</li>
+        <p><strong>Praxissemester Konstruktion E‑Getriebe – BMW AG, München</strong> (06/2023 – 11/2023)<br>
+        Im Rahmen meines Praxissemesters unterstützte ich die Konstruktion von E‑Getrieben mit CATIA V5. Ich erstellte und prüfte Zeichnungen nach internen Normen, führte Zusammenbauuntersuchungen durch und analysierte Toleranzen im Antriebssystem. Darüber hinaus begleitete ich den Fertigungsprozess im BMW‑Werk Dingolfing, wo ich Montageabläufe studierte und Prozessfähigkeiten bewertete. Zusätzlich war ich an der Versuchsteilbeschaffung beteiligt und dokumentierte die Ergebnisse.</p>
 
-          <li><strong>Studentische Hilfskraft – Volkswagen AG, Werk Stöcken</strong> (03/2018 – 12/2020)<br>
-          Unterstützung im Bereich Produktion und Mitarbeit an Fertigungsaufgaben.</li>
+        <p><strong>Studentische Hilfskraft – Volkswagen AG, Werk Stöcken</strong> (03/2018 – 12/2020)<br>
+        Während meiner Tätigkeit bei Volkswagen unterstützte ich regelmäßig im Produktionsbereich. Hierbei konnte ich wertvolle Einblicke in industrielle Fertigungsprozesse gewinnen und mein technisches Verständnis für die Abläufe in der Automobilproduktion vertiefen.</p>
 
-          <li><strong>Freiwilliges Praktikum – Industrieelektronik und Leiterplattenfertigung aller Art GmbH (ILFA), Hannover</strong> (07/2019 – 09/2019)<br>
-          Unterstützung in der Produktion und Fertigung von Leiterplatten. Qualitätskontrolle und Sichtprüfung von Platinen. Mitarbeit in der Prototypenentwicklung, Maschinenbedienung und Wartung. Dokumentation und Nachverfolgung von Produktionsprozessen.</li>
+        <p><strong>Freiwilliges Praktikum – Industrieelektronik und Leiterplattenfertigung aller Art GmbH (ILFA), Hannover</strong> (07/2019 – 09/2019)<br>
+        Bei ILFA arbeitete ich aktiv an der Fertigung von Leiterplatten mit. Meine Aufgaben umfassten die Qualitätskontrolle, die Sichtprüfung von Platinen sowie die Mitarbeit in der Prototypenentwicklung. Zudem übernahm ich Tätigkeiten an Produktionsmaschinen, führte einfache Wartungsarbeiten durch und dokumentierte die Prozesse systematisch.</p>
 
-          <li><strong>Grundpraktikum – Hanomag Lohnhärterei Gruppe, Hannover</strong> (02/2017 – 03/2017)<br>
-          Einführung in die Steuerung und Regelung von Härteöfen. Überwachung von Temperaturprofilen und Prozessparametern. Vorbereitung und Nachbearbeitung von Werkstücken. Durchführung von Stichprobenprüfungen zur Prozesssicherheit. Kalibrierung und Wartung von Härteanlagen sowie Dokumentation der Messergebnisse.</li>
-        </ul>
+        <p><strong>Grundpraktikum – Hanomag Lohnhärterei Gruppe, Hannover</strong> (02/2017 – 03/2017)<br>
+        Im Rahmen meines Grundpraktikums wurde ich in die Steuerung und Regelung von Härteöfen eingeführt. Ich überwachte Temperaturprofile und Prozessparameter, bereitete Werkstücke für die Härtung vor und führte Stichprobenprüfungen durch. Ergänzend sammelte ich Erfahrungen in der Kalibrierung und Wartung von Härteanlagen und dokumentierte die Ergebnisse zur Qualitätssicherung.</p>
       </div>
 
       <div class="card">

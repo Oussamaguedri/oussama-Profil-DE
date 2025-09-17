@@ -10,8 +10,8 @@
       --bg:#ffffff;
       --txt:#1a1a1a;
       --muted:#666;
-      --acc:#ff6b35;         /* Orange Akzent */
-      --acc-2:#ffa94d;       /* Heller Orange */
+      --acc:#ff6b35;
+      --acc-2:#ffa94d;
       --border:#e0e0e0;
       --chip:#fafafa;
       --shadow: 0 8px 24px rgba(0,0,0,.08);
@@ -41,7 +41,6 @@
 
     footer{text-align:center;padding:20px;color:var(--muted);font-size:14px;margin-top:20px;border-top:2px solid var(--border)}
 
-    /* Highlight Box */
     .highlight{background:linear-gradient(135deg,var(--acc),var(--acc-2));color:#fff;padding:18px;border-radius:16px;text-align:center;box-shadow:var(--shadow)}
     .highlight a{color:#fff;font-weight:600;text-decoration:none}
     .highlight a:hover{text-decoration:underline}
@@ -78,13 +77,22 @@
       </div>
 
       <div class="card">
-        <h2>Referenzen</h2>
+        <h2>Berufserfahrung</h2>
         <ul>
-          <li><strong>BMW AG, München</strong> – Praxissemester Konstruktion E‑Getriebe (06/2023–11/2023).</li>
-          <li><strong>IPH Hannover</strong> – Bachelorarbeit FEM‑Simulation Ringstauchversuch (02/2024–07/2024).</li>
-          <li><strong>Volkswagen AG</strong> – Stud. Hilfskraft Produktion (2018–2020).</li>
-          <li><strong>ILFA GmbH</strong> – Praktikum Leiterplattenfertigung (2019).</li>
-          <li><strong>Hanomag Lohnhärterei</strong> – Grundpraktikum (2017).</li>
+          <li><strong>Bachelorarbeit – Institut für integrierte Produktion Hannover (IPH)</strong> (02/2024 – 07/2024)<br>
+          Durchführung von FEM-Simulationen zur Analyse des Materialverhaltens im Ringstauchversuch. Unterstützung bei der Definition von Prozessparametern, Vergleich manueller und automatisierter Simulationen, Identifikation von Fehlerquellen sowie Optimierung des Simulationsprozesses. Anwendung von Simulationssoftware zur Prozessgestaltung.</li>
+
+          <li><strong>Praxissemester Konstruktion E‑Getriebe – BMW AG, München</strong> (06/2023 – 11/2023)<br>
+          Allgemeine Konstruktionsunterstützung in CATIA V5. Recherche und Erstellung von Zeichnungen nach unternehmensspezifischen Normen. Durchführung von Zusammenbauuntersuchungen, Toleranzbetrachtungen und Zeichnungserstellung für Getriebekomponenten. Besuch des BMW‑Werks Dingolfing zur Analyse von Getriebemontage und Fertigungsprozessen. Überprüfung von Fertigungstoleranzen und Prozessfähigkeitswerten. Unterstützung bei der Versuchsteilbeschaffung und Dokumentation.</li>
+
+          <li><strong>Studentische Hilfskraft – Volkswagen AG, Werk Stöcken</strong> (03/2018 – 12/2020)<br>
+          Unterstützung im Bereich Produktion und Mitarbeit an Fertigungsaufgaben.</li>
+
+          <li><strong>Freiwilliges Praktikum – Industrieelektronik und Leiterplattenfertigung aller Art GmbH (ILFA), Hannover</strong> (07/2019 – 09/2019)<br>
+          Unterstützung in der Produktion und Fertigung von Leiterplatten. Qualitätskontrolle und Sichtprüfung von Platinen. Mitarbeit in der Prototypenentwicklung, Maschinenbedienung und Wartung. Dokumentation und Nachverfolgung von Produktionsprozessen.</li>
+
+          <li><strong>Grundpraktikum – Hanomag Lohnhärterei Gruppe, Hannover</strong> (02/2017 – 03/2017)<br>
+          Einführung in die Steuerung und Regelung von Härteöfen. Überwachung von Temperaturprofilen und Prozessparametern. Vorbereitung und Nachbearbeitung von Werkstücken. Durchführung von Stichprobenprüfungen zur Prozesssicherheit. Kalibrierung und Wartung von Härteanlagen sowie Dokumentation der Messergebnisse.</li>
         </ul>
       </div>
 

@@ -49,12 +49,24 @@
       <h1 class="name">Oussama Guedri</h1>
       <p class="role">Maschinenbau · Fertigungs‑/Qualitäts‑/Produktionsingenieur</p>
       <div class="contacts">
-        <a href="mailto:Oussamaguedri@gmail.com">E‑Mail</a> ·
-        <a href="tel:+491637254664">Telefon</a> · Hannover
+        <a href="mailto:Oussamaguedri@gmail.com">Oussamaguedri@gmail.com</a> ·
+        <a href="tel:+491637254664">+49&nbsp;163&nbsp;7254664</a> · Hannover
       </div>
     </header>
 
     <section>
+      <div class="card" style="display:flex;gap:14px;align-items:center;justify-content:space-between;flex-wrap:wrap">
+        <div>
+          <div style="font-size:15px;color:var(--muted);margin-bottom:6px">Direkter Kontakt</div>
+          <div style="font-size:18px;font-weight:600">E‑Mail: <a href="mailto:Oussamaguedri@gmail.com">Oussamaguedri@gmail.com</a></div>
+          <div style="font-size:18px;font-weight:600">Telefon: <a href="tel:+491637254664">+49&nbsp;163&nbsp;7254664</a></div>
+        </div>
+        <div style="display:flex;gap:10px;flex-wrap:wrap">
+          <a href="mailto:Oussamaguedri@gmail.com" class="cta-btn" style="background:var(--acc);color:#fff;padding:10px 14px;border-radius:10px;text-decoration:none;box-shadow:var(--shadow)">✉️ E‑Mail senden</a>
+          <a href="tel:+491637254664" class="cta-btn" style="background:#111;color:#fff;padding:10px 14px;border-radius:10px;text-decoration:none;box-shadow:var(--shadow)">📞 Anrufen</a>
+          <a href="https://wa.me/491637254664" target="_blank" rel="noopener" class="cta-btn" style="background:#25D366;color:#111;padding:10px 14px;border-radius:10px;text-decoration:none;box-shadow:var(--shadow)">💬 WhatsApp</a>
+        </div>
+      </div>
       <div class="card">
         <h2>Skills</h2>
         <div class="tags">

@@ -146,7 +146,6 @@
     <img src="hanomag-logo.png" alt="Hanomag" class="h-12 object-contain mb-2" />
     <span class="text-sm font-medium text-slate-700">Hanomag</span>
   </div>
-
   <div class="logo-card min-w-[200px] shrink-0 rounded-2xl border border-slate-200 bg-white p-4 flex flex-col items-center justify-center">
     <img src="bs-logo.png" alt="BS-Management" class="h-12 object-contain mb-2" />
     <span class="text-sm font-medium text-slate-700">BS-Management</span>
